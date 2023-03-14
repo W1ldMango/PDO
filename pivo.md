@@ -11,7 +11,9 @@
 
 # 3. Reference 
 
-	  Nástěnný otvírák na lahve, který si jednoduše pověsíte na zeď pomocí háčku na zadní straně. Nebo přivrtáte na vrata. Nebudete se pak už nikdy muset shánět po malém otvíráku. Otevřete s ním třetinky, půllitry i sedmičky a zátky vám budou krásně padat do plechové nádobky, kterou jednou za čas vyprázdníte.
+	Nástěnný otvírák na lahve, který si jednoduše pověsíte na zeď pomocí háčku na zadní straně. 
+	Nebo přivrtáte na vrata. Nebudete se pak už nikdy muset shánět po malém otvíráku. 
+	Otevřete s ním třetinky, půllitry i sedmičky a zátky vám budou krásně padat do plechové nádobky, kterou jednou za čas vyprázdníte.
 
 # 4. Katalogový list
 
