@@ -17,7 +17,7 @@
 
 # 4. Katalogový list
 
-	  Kvalitní maxi otvírák z bukového dřeva s věnováním dědečkovi. Délka: 27 cm, Šířka: 4,5 cm.
+	Kvalitní maxi otvírák z bukového dřeva s věnováním dědečkovi. Délka: 27 cm, Šířka: 4,5 cm.
 
 # 5. Tutorial
 
