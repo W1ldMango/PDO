@@ -10,7 +10,7 @@ soon
 #######################
 
 # 1. Koncept: 
-	Otevirak na pivo 3000: Nástěnný otvírák na lahve, který si jednoduše pověsíte na zeď 			pomocí háčku na zadní straně. Nebo přivrtáte na vrata. Nebudete se pak už nikdy muset 		shánět po malém otvíráku. Otevřete s ním třetinky, půllitry i sedmičky a zátky vám budou 		krásně padat do plechové nádobky, kterou jednou za čas vyprázdníte.
+	Otevirak na pivo 3000: Otevři a užívej si
 
 # 2. Pracovní postup 
 
@@ -22,11 +22,11 @@ soon
 
 # 3. Reference 
 
-	https://is.gd/rDukgb
+	Nástěnný otvírák na lahve, který si jednoduše pověsíte na zeď pomocí háčku na zadní straně. Nebo přivrtáte na vrata. Nebudete se pak už nikdy muset shánět po malém otvíráku. Otevřete s ním třetinky, půllitry i sedmičky a zátky vám budou krásně padat do plechové nádobky, kterou jednou za čas vyprázdníte.
 
 # 4. Katalogový list
 
-	Kvalitní maxi otvírák z bukového dřeva s věnováním dědečkovi. Délka: 27 cm, Šířka: 4,5 		cm.
+	Kvalitní maxi otvírák z bukového dřeva s věnováním dědečkovi. Délka: 27 cm, Šířka: 4,5 cm.
 
 # 5. Tutorial
 
