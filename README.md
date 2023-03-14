@@ -30,9 +30,9 @@ soon
 
 # 5. Tutorial
 
-Krok 1: Připravte si láhev nebo plechovku piva, kterou chcete otevřít.
-Krok 2: Vezměte otevírák na pivo a držte ho v jedné ruce s horní částí otevírače směřující nahoru.
-Krok 3: Uchopíte láhev nebo plechovku piva v druhé ruce a umístěte horní část otevírače na vrchol uzávěru.
-Krok 4: Pevně držte otevírák na místě, zatímco druhou rukou tlačte dolů, abyste odstranili uzávěr.
-Krok 5: Pokud jste úspěšně odstranili uzávěr, odstraňte otevírák z lahve nebo plechovky a můžete si vychutnat své pivo!
+	Krok 1: Připravte si láhev nebo plechovku piva, kterou chcete otevřít.
+	Krok 2: Vezměte otevírák na pivo a držte ho v jedné ruce s horní částí otevírače směřující nahoru.
+	Krok 3: Uchopíte láhev nebo plechovku piva v druhé ruce a umístěte horní část otevírače na vrchol uzávěru.
+	Krok 4: Pevně držte otevírák na místě, zatímco druhou rukou tlačte dolů, abyste odstranili uzávěr.
+	Krok 5: Pokud jste úspěšně odstranili uzávěr, odstraňte otevírák z lahve nebo plechovky a můžete si vychutnat své pivo!
 	
