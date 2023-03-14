@@ -1,5 +1,5 @@
 # 1. Koncept: 
-	  Otevirak na pivo 3000: Otevři a užívej si
+	  Otvírák na pivo 3000: Otevři a užívej si
 
 # 2. Pracovní postup 
 
